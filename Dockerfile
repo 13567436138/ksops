@@ -1,1 +1,1 @@
-FROM viaductoss/ksops:v2.5.2
+FROM viaductoss/ksops:v4.1.1
